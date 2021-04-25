@@ -16,7 +16,7 @@ This project is about automation testing in automationpractice.com page that I h
 
 ***Date: 23/04/2021**
 
-                **Report Training automation testing**
+                                    **Report Training automation testing**
 
 **1. Chạy test từ dòng lệnh từng testsuite, & chạy tổng thể toàn bộ testcases để đưa ra báo cáo:**
 - Chạy unittest với từng testcase, và được viết trong testsuite, các testsuite được để trong thư mục: 
