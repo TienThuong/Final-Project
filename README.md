@@ -16,7 +16,7 @@ This project is about automation testing in automationpractice.com page that I h
 - Chạy unittest với từng testcase, và được viết trong testsuite, các testsuite được để trong thư mục: 
 		``` Final - Project\Test ```
 - Chạy toàn bộ testcase bằng cách chạy file test_allsuite.py theo đường dẫn:
-     ```Final-Projec\Test\test_allsuite.py```Cancel changes
+     ```Final-Projec\Test\test_allsuite.py```
 
 
 >Output: 
