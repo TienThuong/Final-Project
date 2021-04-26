@@ -20,7 +20,7 @@ This project is about automation testing in automationpractice.com page that I h
 
 
 >Output:
-> 
+>
 >![1](https://user-images.githubusercontent.com/83185010/116017628-5bb0f500-a66a-11eb-9f34-a688cf5adab9.png)
 
 
@@ -31,7 +31,7 @@ Chạy bằng pytest, sử dụng parameterized theo các thao tác:
    - Chạy pytest đối với file test_search2 bằng câu lệnh 
       ```py.test -v -s Test\tearch_search2.py```
    >Output:
-  
+   >
    >![2brow](https://user-images.githubusercontent.com/83185010/116017695-8602b280-a66a-11eb-878b-827da71b15d6.png)
 
    **3. Chạy song song 2 browsers, mỗi browsers 5 testcases:**
