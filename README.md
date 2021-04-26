@@ -19,8 +19,10 @@ This project is about automation testing in automationpractice.com page that I h
      ```Final-Projec\Test\test_allsuite.py```
 
 
->Output: 
-![enter image description here](https://photos.google.com/photo/AF1QipOp5tARjk_NUFYZUYuhmnISLSsHzsRjV3LznT-u)
+>Output: ![1]
+>
+>(https://user-images.githubusercontent.com/83185010/116017586-391edc00-a66a-11eb-9122-37f6ffce9774.png)
+
 
 **2. Chạy trên 2 browsers Firefox và Chrome:**
 Chạy bằng pytest, sử dụng parameterized theo các thao tác: 
