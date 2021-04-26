@@ -39,7 +39,9 @@ Chạy bằng pytest, sử dụng parameterized theo các thao tác:
    - Chạy pytest đối với file test_search2 bằng câu lệnh 
     ```py.test -v -s -n 2 Test\test_search2.py ```
     
-      
+   >Output:
+   >
+   >![2](https://user-images.githubusercontent.com/83185010/116020848-47bcc180-a671-11eb-8af4-a800fb5fe75e.png)
 
    
 
