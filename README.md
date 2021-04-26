@@ -31,8 +31,9 @@ Chạy bằng pytest, sử dụng parameterized theo các thao tác:
    - Chạy pytest đối với file test_search2 bằng câu lệnh 
       ```py.test -v -s Test\tearch_search2.py```
    >Output:
-   >![enter image description here](https://photos.google.com/photo/AF1QipPBM6Ubl7iGaMwtqu00uEC70cfrLbTyylls0yFX)
-    
+  
+   >x![2brow](https://user-images.githubusercontent.com/83185010/116017695-8602b280-a66a-11eb-878b-827da71b15d6.png)
+
    **3. Chạy song song 2 browsers, mỗi browsers 5 testcases:**
    - Chạy pytest bằng cách sử dụng Teminal trong Pycharm
    - Chạy pytest đối với file test_search2 bằng câu lệnh 
