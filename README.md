@@ -43,6 +43,6 @@ Chạy bằng pytest, sử dụng parameterized theo các thao tác:
    >
    >![2](https://user-images.githubusercontent.com/83185010/116020848-47bcc180-a671-11eb-8af4-a800fb5fe75e.png)
 
-   **4.Setup và chạy test từ Jenkins
+   **4.Setup và chạy test từ Jenkins**
    - Em chạy máy nhà thì được nhưng trên máy công ty thì đang bị sai tài khoản, mật khẩu của localhost
    - Em sẽ update phần này sau ạ !
