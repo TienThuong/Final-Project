@@ -19,7 +19,8 @@ This project is about automation testing in automationpractice.com page that I h
      ```Final-Projec\Test\test_allsuite.py```
 
 
->Output: 
+>Output:
+> 
 >x![1](https://user-images.githubusercontent.com/83185010/116017628-5bb0f500-a66a-11eb-9f34-a688cf5adab9.png)
 
 
