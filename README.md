@@ -45,5 +45,4 @@ Chạy bằng pytest, sử dụng parameterized theo các thao tác:
 
 
    **4.Setup và chạy test từ Jenkins**
-   - Em chạy máy nhà thì được nhưng trên máy công ty thì đang bị sai tài khoản, mật khẩu của localhost
-   - Em sẽ update phần này sau ạ !
+   -
